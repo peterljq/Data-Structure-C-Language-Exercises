@@ -1,6 +1,6 @@
 # Data-Structure-C-Language-Exercises
 Exercises of Data Structure using C Language. I will upload the questions and answers recently.
-
+***
 **70** questions about C language Programming, **30** questions about Linked List/Stack n Queue/Binary Tree/Binary Search Tree. You will also learn C programming during these exercises. Some functions like *POP/PUSH/DEQUEUE/ENQUEUE* have been set for you in advance.
 
 Please feel free to report any bugs that you find in my codes or questions. I will fix them as soon as possible.

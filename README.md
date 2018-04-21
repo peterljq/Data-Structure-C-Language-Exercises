@@ -7,7 +7,7 @@ Exercises of Data Structure using C Language. I will upload the contents recentl
 
 The questions are picked from **Nanyang Technological University's Online Programming System**. The answers here are written by me which may **NOT** be the same as the university's answer. Please feel free to report any bugs that you find in my codes or questions. I will fix them as soon as possible.
 ***
-***The partial pictures and the some sets of information are the university collection. If there is any infringement of rights, please kindly inform us. We will delete that part in one business day.***
+***The partial pictures and some sets of information are the university collection. If there is any infringement of rights, please kindly inform us. We will delete that part in one business day.***
 
 The face-to-face lectures are held by Nanyang Technological University, Singapore. Course Number is **CZ1007**. Lectures are held every Monday and Thursday with free access to all students. 
 ***

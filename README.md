@@ -1,8 +1,10 @@
 # Data-Structure-C-Language-Exercises
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/320px-Nanyang_Technological_University.svg.png)
 ***
-  Latest Status: The Data Structure Part has finished construction. 
-  I will upload the contents of C language exercises (Control Flow, Recursive, Structure, Pointer) recently.
+    Latest Status: 
+    The Data Structure Part has finished construction. 
+    I will upload the contents of C language exercises recently.
+    i.e.Control Flow, Recursive, Structure, Pointer.
 ***
 Exercises of Data Structure using C Language. 
 

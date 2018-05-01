@@ -1,7 +1,10 @@
 # Data-Structure-C-Language-Exercises
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/320px-Nanyang_Technological_University.svg.png)
 ***
-Exercises of Data Structure using C Language. The Data Structure Part has finished construction. I will upload the contents of C language exercises (Control Flow, Recursive, Structure, Pointer) recently.
+  Latest Status: The Data Structure Part has finished construction. 
+  I will upload the contents of C language exercises (Control Flow, Recursive, Structure, Pointer) recently.
+***
+Exercises of Data Structure using C Language. 
 
 **70** questions about C language Programming, **30** questions about Linked List/Stack n Queue/Binary Tree/Binary Search Tree. Some functions like *POP/PUSH/DEQUEUE/ENQUEUE* have been set for you in advance.
 

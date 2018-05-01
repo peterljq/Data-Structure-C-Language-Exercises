@@ -13,4 +13,4 @@ The face-to-face lectures are held by Nanyang Technological University, Singapor
 ***
 Thanks for mathematical and algorithm contribution from ![](https://github.com/peterljq/Data-Structure-C-Language-Exercises/blob/master/Resources%20for%20README/logo.png)'s **`Zhang Xinchang`**.
 
-Thanks for the inspiring ideas and words from ![](https://github.com/peterljq/Data-Structure-C-Language-Exercises/blob/master/Resources%20for%20README/68747470733a2f2f7261772e6769746875622e636f6d2f7765696a69616e77656e2f534a54552d6c6f676f2d62616e6e65722f6d61737465722f534a54555f42414e4e45522f504e472f736a747562616e6e6572626c75652e706e67.png)'s **`Yin Ruihong`** which really promotes the progress of my project.
+Thanks for the inspiring ideas from ![](https://github.com/peterljq/Data-Structure-C-Language-Exercises/blob/master/Resources%20for%20README/68747470733a2f2f7261772e6769746875622e636f6d2f7765696a69616e77656e2f534a54552d6c6f676f2d62616e6e65722f6d61737465722f534a54555f42414e4e45522f504e472f736a747562616e6e6572626c75652e706e67.png) which promotes the progress of my project.

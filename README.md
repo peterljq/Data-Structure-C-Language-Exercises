@@ -4,7 +4,7 @@
     Latest Status: 
     The Data Structure Part has finished construction. 
     I will upload the contents of C language exercises recently.
-    i.e.Control Flow, Recursive, Structure, Pointer.
+    i.e.Control Flow, Recursive, Structure, Pointer.
 ***
 Exercises of Data Structure using C Language. 
 

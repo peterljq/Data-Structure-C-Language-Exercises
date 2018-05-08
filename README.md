@@ -3,9 +3,9 @@
 ***
     Latest Status: 
     The Data Structure Part has finished construction. 
-    C language exercises have been uploaded. 
+    C Language Exercises (CLE) Part have finished construction. 
     A few reference books have been uploaded.
-    The answers writen by me will be uploaded recently which may be slightly different from that provided by prof.
+    Answers of CLE part have been uploaded. That also includes the weekly grading APAS assignment answers writen by me.     
 ***
 Brief Introduction
 ----------
@@ -26,6 +26,8 @@ During this summer I may collect more questions on algorithm & deep learning. Th
 Statement of Rights and Responsibilities
 ----------
 ***The partial pictures and some sets of information are the university collection. If there is any infringement of rights, please kindly inform us. We will delete that part in one business day.***
+
+The answers provided here are all writen by me (except a few BST questions) which may not guarantee 100% correct. If you want the official answers, please kindly approach to the course lecturers or corresponding lab tutors.
 
 Special Thanks
 ----------

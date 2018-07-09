@@ -2,10 +2,7 @@
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/320px-Nanyang_Technological_University.svg.png)
 ***
     Latest Status: 
-    The Data Structure Part has finished construction. 
-    C Language Exercises (CLE) Part have finished construction. 
-    A few reference books have been uploaded.
-    Answers of CLE part have been uploaded. That also includes the weekly grading APAS assignment answers writen by me.     
+    Construction Finished.
 ***
 Brief Introduction
 ----------
